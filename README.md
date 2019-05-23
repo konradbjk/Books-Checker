@@ -1,5 +1,4 @@
 # Books-Checker
-=============
 Thanks to this repository you will learn how to check books using Goodreads API. You might use it later on to automate your ebooks library.
 
 ## Prerequisites
@@ -17,4 +16,4 @@ api_key = 'your_api_key_here'
 secret_key = 'your_secret_key_here'
 ```
 ## How to start?
-Fetch this repo and start jupyter. Open the **Goodreads API** notebook.
+Fetch this repo and start jupyter. Open the [Goodreads API notebook](https://github.com/konradbjk/Books-Checker/blob/master/Goodreads%20API.ipynb) and follow the code.
